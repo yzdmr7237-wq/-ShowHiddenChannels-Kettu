@@ -1,0 +1,7 @@
+{
+  "name": "ShowHiddenChannels Kettu",
+  "description": "Shows cached hidden channel names only; does not read or fetch messages.",
+  "authors": [{"name": "Kettu custom port"}],
+  "main": "index.js",
+  "version": "1.0.0"
+}
